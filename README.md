@@ -1,11 +1,19 @@
 # Airbnb Clone
 > Travel & Hotel booking Application powered by Reaact-Js & Material-UI.
+* The application contains a homepage & search result page. The login functionality will be added at a later date using firebase
+
+## About the App
+> Airbnb, Inc. is an American vacation rental online marketplace company based in San Francisco, California.
+> Airbnb maintains and hosts a marketplace, accessible to consumers on its website or via an app.
+
+- [banner](http://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg)<br />
+- [banner-2](https://a0.muscache.com/im/pictures/5998210c-3dd8-456a-8805-2a044ede1d5e.jpg?im_w=1680)<br />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## About the Application
 > Airbnb, Inc. is an American vacation rental online marketplace company based in San Francisco, California. Airbnb maintains and hosts a marketplace, accessible to consumers on its website or via an app
 
 ## Stock
-
 - [banner](http://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg)
 - [banner-2](https://a0.muscache.com/im/pictures/5998210c-3dd8-456a-8805-2a044ede1d5e.jpg?im_w=1680)
 
